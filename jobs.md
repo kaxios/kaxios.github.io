@@ -18,7 +18,19 @@ Location: Durham,NC(USA)
 Team: Hybrid Cloud
 Company: IBM USA
 
-*Review Last position details*
+**Cloud Infrastructure Software Developer/Spark Developer** 
+- ETL in scale for cloud assets events(scala/python/kuberntes/docker/sbt/kafka/fluentd/mongodb/grafana/prometheus/jupyter). 
+- Provided a solution architecture for ETL of several thousands of assests monitoring that could scale to the target number we had as requirement. 
+- Not Apache Spark was explored, but also alternatives of the same kind, and the best methodology for the ETL layer for the scenarios in hand, supporting tools like Kafka were part of the research to proof the solution resilience for the challenge in hand.
+- The solution provided brough not just a good possibility of scaling, but also easier to code and maintain and a docker/k8s way to be delivered(for building and run). 
+
+	
+ **API Management ecosystem developer**
+ - exploring edge technologies like istio/datapower/docker/kubernetes/api connect/cassandra/elastic search/kibana/automations(bash)/go/nodejs/java for PoCs and product enhancements. 
+ 
+ > All development done on these last years where all focus to create solutions Cloud Native(born to run on containers) by design including spark apps. 
+
+
 <div id="job6"><center>***</center></div>
 
 
