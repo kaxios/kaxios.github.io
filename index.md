@@ -61,9 +61,7 @@ Plus Several in-company knowledge sharing sessions in inside company.
 ### 7 - IBM - SW Developer
 
 Location: Durham,NC(USA)
-
 Team: Hybrid Cloud
-
 Company: IBM USA
 
 *Review Last position details*
