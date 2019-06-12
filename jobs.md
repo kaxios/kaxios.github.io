@@ -93,3 +93,7 @@ Vacation Intern at company:
 - Maintain Systems for Industrial Automation. (C++, Windows)
 
 > Skills explored: C++, Windows, VC++
+
+
+---
+[Return to Index](index.html)
