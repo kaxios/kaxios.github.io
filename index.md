@@ -45,15 +45,15 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 
 # Job Summary
 
-| Notes | Start | End | Where | Position | 
+| # | Start | End | Where | Position | 
 |:---|:---|:---|:---|:---|
-| 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html) | 
-| 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html) |
-| 5 | Jan.2010 | Jun.2010| Sodexo | [IT Contract Manager](jobs.html) | 
-| 4 | Apr.2008 | Jul.2009| HP(as employee)| [SW Eng - Solution Architect/Java Support](jobs.html) |
-| 3 | Dec.2005 | Apr.2008| HP(as vendor)| [SW Eng - Solution Architect](jobs.html) |
-| 2 | May.2002|Jan.2006 | Claro/BCP | [System Analyst - Java/WEB](jobs.html) |
-| 1 | 2001|2001 |Ablevision | [Intern](jobs.html) |
+| 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html?#job7) | 
+| 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html?#job6) |
+| 5 | Jan.2010 | Jun.2010| Sodexo | [IT Contract Manager](jobs.html?#job5) | 
+| 4 | Apr.2008 | Jul.2009| HP(as employee)| [SW Eng - Solution Architect/Java Support](jobs.html?#job4) |
+| 3 | Dec.2005 | Apr.2008| HP(as vendor)| [SW Eng - Solution Architect](jobs.html?#job3) |
+| 2 | May.2002|Jan.2006 | Claro/BCP | [System Analyst - Java/WEB](jobs.html?#job2) |
+| 1 | 2001|2001 |Ablevision | [Intern](jobs.html?#job1) |
 
 
 # Academic Research
