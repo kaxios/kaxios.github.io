@@ -73,5 +73,6 @@ Canada(Quebec,Ottawa, Toronto, Vancouver and Montreal), Europe(Sweden, Denmark, 
 
 ## Other Companies
 - [McGill Quinn](https://www.linkedin.com/in/mcgill-quinn-4351962/)
+- [Maria Ane Dias](https://www.linkedin.com/in/maria-ane-dias/)
 ---
 
