@@ -17,114 +17,20 @@ Linkedin Profile: https://www.linkedin.com/in/cesar-botti-58947513/
 
 
 ---
-# Details:
 
-- [Education History](education.html)
-- [General Links](link.html)
-
-
-
-
-
----
-
-# Job Experiences
+# Job Summary
 
 | Notes | Start | End | Where | Position | 
 |:---|:---|:---|:---|:---|
-| 7 | May.2017 | Sep.2019| IBM(USA) | Cloud Infrastructure Software Developer | 
-| 6 | Aug.2010 | May.2017| IBM(BRA) | SW Eng - CORD Americas/Pre-Sales Dev |
-| 5 | Jan.2010 | Jun.2010| Sodexo | IT Contract Manager | 
-| 4 | Apr.2008 | Jul.2009| HP(as employee)| SW Eng - Solution Architect/Java Support |
-| 3 | Dec.2005 | Apr.2008| HP(as vendor)| SW Eng - Solution Architect |
-| 2 | May.2002|Jan.2006 |Claro/BCP |System Analyst - Java/WEB |
-| 1 | 2001|2001 |Ablevision | Intern |
-
-### 7 - IBM - SW Developer
-
-Location: Durham,NC(USA)
-Team: Hybrid Cloud
-Company: IBM USA
-
-*Review Last position details*
+| 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html) | 
+| 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html) |
+| 5 | Jan.2010 | Jun.2010| Sodexo | [IT Contract Manager](jobs.html) | 
+| 4 | Apr.2008 | Jul.2009| HP(as employee)| [SW Eng - Solution Architect/Java Support](jobs.html) |
+| 3 | Dec.2005 | Apr.2008| HP(as vendor)| [SW Eng - Solution Architect](jobs.html) |
+| 2 | May.2002|Jan.2006 | Claro/BCP | [System Analyst - Java/WEB](jobs.html) |
+| 1 | 2001|2001 |Ablevision | [Intern](jobs.html) |
 
 
-### 6 - IBM - Sao Paulo, SP - SW Eng Staff - CORD Americas
-Company: IBM Brazil
-
-- 5 Recognition Awards
-- L3 Support for Mobile Development tool, MobileFirst Platform foundation;
-- Participation on the development of [Ei!](https://vimeo.com/97500029) App and [TagP](http://tagpreference.wix.com/tagp) app for mobile(2nd place Brazil IBM Bluemix contest - ionic + bluemix + opencv);
-- Customer visit/demos to guide customer on the use of IBM mobile platform;
-- Lab Advocate for PNC and Banco Votorantim for MobileFirst Platform
-- Docker Evangelist on BrazilLab and CORD Americas Team
-- General Research on TPE Program on: Watson Visual Recognition, Docker, Internet Of Things(IOT), Ionic and others technologies
-- SW Engineer/Solution Architect of Pre-sales operation tools;
-- Discount/Price rules developer using IBM WODM(ilog/jrules 7.5/8.0);
-- Activities Coordination of a team in different locations(WW);
-
-> Skills explored: Cordova, Ionic, Android, Objective-C, iOS, MobileFirst Platform, Bluemix, Liberty, Java, Javascript(Server and Client), Mobile Development, Docker, Bash, Jython, IOT, Watson ,  IBM WODM (7.5/8.X), BPM, Requirements Analysis, Global Team Coordination, Pre-Sales Support, Sikuli(UI tests API), Lotus Connections, Android Dev(personal), Dojo, HTML, Groovy, SQL, Excel(Macro), IBM RAD, IBM WAD/WAS
-
-### 5 - Sodexo - Alphaville(Barueri), SP - IT Contract Manager 
-Company: Sodexo as Vendor(br.sodexo.com)
-
-Managing and Engaging 3rd Party IT suppliers from Sodexo
-
-- 3rd party vendors contracts management. Vendors: Embratel, Atos Origin, IBM and others.
-- Review of SLAs and Escalation of Production disruption events.
-
-> Skills explored: 3rd Party Team Mgt, 3rd Party IT Contract Mgt, Groovy, Java
-
-### 4 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
-Company: Hewlett-Packard as Employee(www.hp.com)
-
-Java Developer and Architect Solution for a new HP clients Monitoring Service - Called MTS 
-- 1 Recognition Award in Client Allocation
-- Design of Architecture of complete Web Solution including front end, web services and database modeling. Web leader through complete life cycle.
-- Leader of a team of Artists and Technical for the development of a WEB 2.0 Interface for a Remote Monitoring Solutions.
-- Customer Facing at Critical Mission contract in issues related to web services Architecture to analyze and recommend fixes.
-- Participation of Global Teams as Consultant for tuning web services.
-
-> Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordnation, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
-
-### 3 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
-Company: Hewlett-Packard as Vendor(www.hp.com)
-
-Java Developer and Architect Solution for a new HP clients Monitoring Service - Called MTS 
-- Design of Architecture of complete Web Solution including front end, web services and database modeling. Web leader through complete life cycle.
-- Leader of a team of Artists and Technical for the development of a WEB 2.0 Interface for a Remote Monitoring Solutions.
-- Customer Facing at Critical Mission contract in issues related to web services Architecture to analyze and recommend fixes.
-- Participation of Global Teams as Consultant for tuning web services.
-*3 and *4 were the same function, the only change was the employee relationship, as I started as Vendor then evolved to a company employee.
-
-> Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordination, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
-
-### 2 - Claro - São Paulo, SP - System Analyst
-Company: Claro/BCP as employee(www.claro.com.br) Member of the architecture Team from Claro which defined best-practices for new web apps from the company
-
-**System Analyst - 2003/2006**
-- 1 Recognition Award
-- 1 Patent Award BR-PI0205203-3
-- Development of tools to support ongoing maintenance VAS and WEB solutions of Claro portfolio of Solutions (Java, Swing, SWT, Jogl, Hibernate, Jgoodies, Httpunit)
-- Supporting VAS Platform, used to integrate our partners with the SMS, MMS and OTA and Location Services. ( J2EE , Weblogic, Linux).
-- Mentoring of new Interns in the BCP/Claro development patterns.
-- Java Web Solution Development.
-
-> Skills explored: Java, HTML, J2EE, Weblogic, Location Services API, JOGL, Java SWT, Struts, Unix, C++, Oracle DB, SQL, Java Swing, Hibernate, Jgoodies, Httpunit, VAS Platform Support (SMS, MMS, Location), Intern Training RUP, Design Patterns
-
-**Intern - 2002**
-- Java Web Solution Development.
-- Coordination 3rd parties consultants in the development of Value Added Platform Web Interface.
-
-### 1 - Ablevision - São Carlos, SP – Intern
-Company: Ablevision(www.ablevision.com) Programmer in a company that creates Agriculture/Manufacture automation SW 
-
-Vacation Intern at company:
-- Maintain Systems for Industrial Automation. (C++, Windows)
-
-> Skills explored: C++, Windows, VC++
-
---- 
 # Academic Research
 
 | When | Where | Guided By | Description |
@@ -134,7 +40,13 @@ Vacation Intern at company:
 
 > Skills explored: Virtual Reality Research, Voice Recognition, VRML, C++, Game Development, Direct X, Open GL, 3DS, Animation Techniques
 
----
+
+# Details:
+
+- [Education History](education.html)
+- [Job Experiences](jobs.html)
+- [General Links](links.html)
+
 
 # International Travel/Living
 
