@@ -115,7 +115,14 @@ rollOverOutlineColor : "#000000"
 
 # International Travel/Living
 
-Canada(Quebec,Ottawa, Toronto, Vancouver and Montreal), Europe(Sweden, Denmark, Germany, Italy, France, Belgium, Netherlands, Spain, Ireland, Finland and Switzerland), Mexico(Mexico DF), Venezuela(Caracas and Isla Margarita), Guatemala(Capital), EUA(Austin, San Francisco, Boston, DC, New York, Orlando and Miami), Argentina(Buenos Aires) and Brazil(Salvador, São Paulo, Fortaleza, Rio de Janeiro, Porto Alegre, Curitiba, Brasilia, São Carlos, Boa Vista, Natal, Vitória, Campinas and other cities).
+- Canada(Quebec,Ottawa, Toronto, Vancouver and Montreal)
+- Europe(Sweden, Denmark, Germany, Italy, France, Belgium, Netherlands, Spain, Ireland, Finland and Switzerland)
+- Mexico(Mexico DF)
+- Venezuela(Caracas and Isla Margarita)
+- Guatemala(Capital)
+- EUA(Austin, San Francisco, Boston, DC, New York, Orlando and Miami)
+- Argentina(Buenos Aires) 
+- Brazil(Salvador, São Paulo, Fortaleza, Rio de Janeiro, Porto Alegre, Curitiba, Brasilia, São Carlos, Boa Vista, Natal, Vitória, Campinas and other cities).
 
 ---
 [Return to Index](index.html)
