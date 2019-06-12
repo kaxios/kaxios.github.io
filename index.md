@@ -7,12 +7,28 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 # Overview
 - [+17 of Passionate Software/Solutions Development](jobs.html) 
 - [+4 of Docker Advocating](education.html)
-- +7 Recognition Awards for the work performed
--	+2 Years of Academic Research
+- 7 Recognition Awards for the work performed
+-	2 Years of Academic Research
 -	[Good experience abroad](international.html): Germany, USA, Canada, Netherlands, Brazil. 
 - Fluent in English, Portuguese
 - Career goals: "To be a developer language agnostic, challenge driven, support by strong fundamentals and always pursuing to learn something new."
 - Last years personal challenge: "To have all my application deliveries been develop as cloud native apps, by design container ready."
+
+---
+# Skills/Qualifications
+
+- Strong fundamentals in computer science
+- Fast learner of new technologies
+- Customer facing experience for support and demo of new solutions
+- Love to study languages
+> Some speak ability on: German, French, Spanish
+> Initial Studies for fun: Russian and Finnish
+- Self-Motivated/Self-learner
+- Multi-cultural work experience
+- [Travel is a hobby](international.html)
+- [Attending tech conferences also a hobby](education.html)
+- Current career main focus to develop Big Data/Cloud Native based solutions.
+> Explore the challenges of handle [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) when selecting persitence layers and also doing it by design on containerized fashion.
 
 ---
 
@@ -23,12 +39,6 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 - [International Experience](international.html)
 - [Detailed Skill Set](skills.html)
 - [General Links](links.html)
-
-
----
-# Skills
-
-
 
 
 ---
