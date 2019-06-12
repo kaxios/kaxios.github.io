@@ -9,4 +9,5 @@
 - [GLS German Courses](www.gls-german-courses.de/)
 
 
-[Index](index.html)
+---
+[Return to Index](index.html)
