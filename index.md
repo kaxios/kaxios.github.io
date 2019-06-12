@@ -2,7 +2,7 @@
 ## Welcome to Full Resume
 Linkedin Profile: https://www.linkedin.com/in/cesar-botti-58947513/
 
-{% include toc.html html=content %}
+{% include toc.html html=text  %}
 
 # Overview
 - +17 of Passionate Software/Solutions Development 
