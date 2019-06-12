@@ -12,8 +12,8 @@ Last 3 years personal challenge:
 > Containerizing everything I touch
 
 # Overview
-- [+17 of Passionate Software/Solutions Development](jobs.html) 
-- [+4 of Docker Advocating](education.html)
+- [+17 years of Passionate Software/Solutions Development](jobs.html) 
+- [+4 years of Docker Advocating](education.html)
 - 7 Recognition Awards for the work performed
 -	2 Years of Academic Research
 -	[Good experience abroad](international.html): Germany, USA, Canada, Netherlands, Brazil. 
