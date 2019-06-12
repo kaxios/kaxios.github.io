@@ -2,10 +2,10 @@
 
 | When | School | Place | Course | Description | 
 |:---|:---|:---|:---|:---|
-| 2019 | **SAIS-19** | San Francisco(USA) | **Spark Summit** | Data Science related technologies | 
-| 2018 | **DockerCon EU** | Barcelona(Spain)| Docker Related Talks | Docker based technologies |
-| 2018 | **ODSC -Open Data Science Conference** |Boston(USA) |Data Science general topics | 4 days conference for topics related to Machine Learning and Data Processing tools and methodologies|
-| 2017 | **DockerCon EU** Moby Summit|Copenhagen(DNK) |Docker Related Talks |Docker based technologies and istio based talks(3 Days) |
+| 2019 | [**SAIS-19**](https://databricks.com/sparkaisummit/north-america) | San Francisco(USA) | **Spark+AI Summit** | Data Science related technologies | 
+| 2018 | [**DockerCon EU**](http://https://europe-2018.dockercon.com/) | Barcelona(Spain)| Docker Related Talks | Docker based technologies |
+| 2018 | [**ODSC -Open Data Science Conference**](https://odsc.com/) |Boston(USA) |Data Science general topics | 4 days conference for topics related to Machine Learning and Data Processing tools and methodologies|
+| 2017 | [**DockerCon EU** Moby Summit](https://europe-2017.dockercon.com/) |Copenhagen(DNK) |Docker Related Talks |Docker based technologies and istio based talks(3 Days) |
 | 2016 | German Lang. School |Berlin(DEU) |German Classes |Intensive Course in German in Berlin |
 | 2015-2016 |Goethe Institute |São Paulo(BRA) |German Classes |160h classes(80h per year) |
 | 2016 |BitFountain(web) |Online | Objective-C/Swift| 30h Programming Course |
