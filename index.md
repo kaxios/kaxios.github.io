@@ -3,9 +3,11 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 
 
 Career Vision: 
+
 **"To be a solution developer language agnostic(right tool for the problem), challenge driven, support by strong fundamentals and always pursuing to learn something new."**
 
 Last 3 years personal challenge: 
+
 **"To have all my application deliveries been develop as cloud native apps, by design container ready."**
 > Containerizing everything I touch
 
