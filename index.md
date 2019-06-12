@@ -64,7 +64,7 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 - [Richard Scheuerle](https://www.linkedin.com/in/richard-scheuerle-139b025/)
 - [Lin Sun](https://www.linkedin.com/in/lin-sun-a9b7a81/)
 - [Robert Thelen ](https://www.linkedin.com/in/robertthelen/)
-- [Krithika](https://www.linkedin.com/in/krithika-prakash/)
+- [Krithika Prakash](https://www.linkedin.com/in/krithika-prakash/)
 
 ## Ops Dashboard/Spark: 
 
