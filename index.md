@@ -58,8 +58,14 @@ Plus Several in-company knowledge sharing sessions in inside company.
 | 2 | May.2002|Jan.2006 |Claro/BCP |System Analyst - Java/WEB |
 | 1 | 2001|2001 |Ablevision | Intern |
 
-### 7 - IBM – Durham,NC(USA) - SW Developer – Hybrid Cloud
+### 7 - IBM - SW Developer
+
+Location: Durham,NC(USA)
+
+Team: Hybrid Cloud
+
 Company: IBM USA
+
 *Review Last position details*
 
 
