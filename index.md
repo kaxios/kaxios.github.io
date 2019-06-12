@@ -2,6 +2,8 @@
 ## Welcome to Full Resume
 Linkedin Profile: https://www.linkedin.com/in/cesar-botti-58947513/
 
+{% include toc.html html=content %}
+
 # Overview
 - +17 of Passionate Software/Solutions Development 
 - +4 of Docker Advocating 
