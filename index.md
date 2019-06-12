@@ -15,20 +15,20 @@ Linkedin Profile: https://www.linkedin.com/in/cesar-botti-58947513/
 
 | Notes | Start | End | Where | Position | 
 |:---|:---|:---|:---|:---|
-| *7 | May.2017 | Sep.2019| IBM(USA) | Cloud Infrastructure Software Developer | 
-| *6 | Aug.2010 | May.2017| IBM(BRA) | SW Eng - CORD Americas/Pre-Sales Dev |
-| *5 | Jan.2010 | Jun.2010| Sodexo | IT Contract Manager | 
-| *4 | Apr.2008 | Jul.2009| HP(as employee)| SW Eng - Solution Architect/Java Support |
-| *3 | Dec.2005 | Apr.2008| HP(as vendor)| SW Eng - Solution Architect |
-| *2 | May.2002|Jan.2006 |Claro/BCP |System Analyst - Java/WEB |
-| *1 | 2001|2001 |Ablevision | Intern |
+| 7 | May.2017 | Sep.2019| IBM(USA) | Cloud Infrastructure Software Developer | 
+| 6 | Aug.2010 | May.2017| IBM(BRA) | SW Eng - CORD Americas/Pre-Sales Dev |
+| 5 | Jan.2010 | Jun.2010| Sodexo | IT Contract Manager | 
+| 4 | Apr.2008 | Jul.2009| HP(as employee)| SW Eng - Solution Architect/Java Support |
+| 3 | Dec.2005 | Apr.2008| HP(as vendor)| SW Eng - Solution Architect |
+| 2 | May.2002|Jan.2006 |Claro/BCP |System Analyst - Java/WEB |
+| 1 | 2001|2001 |Ablevision | Intern |
 
-### *7 - IBM – Durham,NC(USA) - SW Developer – Hybrid Cloud
+### 7 - IBM – Durham,NC(USA) - SW Developer – Hybrid Cloud
 Company: IBM USA
 *Review Last position details*
 
 
-### *6 - IBM - Sao Paulo, SP - SW Eng Staff - CORD Americas
+### 6 - IBM - Sao Paulo, SP - SW Eng Staff - CORD Americas
 Company: IBM Brazil
 
 - 5 Recognition Awards
@@ -44,7 +44,7 @@ Company: IBM Brazil
 
 > Skills explored: Cordova, Ionic, Android, Objective-C, iOS, MobileFirst Platform, Bluemix, Liberty, Java, Javascript(Server and Client), Mobile Development, Docker, Bash, Jython, IOT, Watson ,  IBM WODM (7.5/8.X), BPM, Requirements Analysis, Global Team Coordination, Pre-Sales Support, Sikuli(UI tests API), Lotus Connections, Android Dev(personal), Dojo, HTML, Groovy, SQL, Excel(Macro), IBM RAD, IBM WAD/WAS
 
-### *5 - Sodexo - Alphaville(Barueri), SP - IT Contract Manager 
+### 5 - Sodexo - Alphaville(Barueri), SP - IT Contract Manager 
 Company: Sodexo as Vendor(br.sodexo.com)
 
 Managing and Engaging 3rd Party IT suppliers from Sodexo
@@ -54,7 +54,7 @@ Managing and Engaging 3rd Party IT suppliers from Sodexo
 
 > Skills explored: 3rd Party Team Mgt, 3rd Party IT Contract Mgt, Groovy, Java
 
-### *4 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
+### 4 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
 Company: Hewlett-Packard as Employee(www.hp.com)
 
 Java Developer and Architect Solution for a new HP clients Monitoring Service - Called MTS 
@@ -66,7 +66,7 @@ Java Developer and Architect Solution for a new HP clients Monitoring Service - 
 
 > Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordnation, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
 
-### *3 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
+### 3 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
 Company: Hewlett-Packard as Vendor(www.hp.com)
 
 Java Developer and Architect Solution for a new HP clients Monitoring Service - Called MTS 
@@ -78,7 +78,7 @@ Java Developer and Architect Solution for a new HP clients Monitoring Service - 
 
 > Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordination, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
 
-### *2 - Claro - São Paulo, SP - System Analyst
+### 2 - Claro - São Paulo, SP - System Analyst
 Company: Claro/BCP as employee(www.claro.com.br) Member of the architecture Team from Claro which defined best-practices for new web apps from the company
 
 **System Analyst - 2003/2006**
@@ -95,7 +95,7 @@ Company: Claro/BCP as employee(www.claro.com.br) Member of the architecture Team
 - Java Web Solution Development.
 - Coordination 3rd parties consultants in the development of Value Added Platform Web Interface.
 
-### *1 - Ablevision - São Carlos, SP – Intern
+### 1 - Ablevision - São Carlos, SP – Intern
 Company: Ablevision(www.ablevision.com) Programmer in a company that creates Agriculture/Manufacture automation SW 
 
 Vacation Intern at company:
