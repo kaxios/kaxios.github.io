@@ -2,7 +2,12 @@
 Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
 
 
- **This site is under construction**
+Career Vision: 
+**"To be a solution developer language agnostic(right tool for the problem), challenge driven, support by strong fundamentals and always pursuing to learn something new."**
+
+Last 3 years personal challenge: 
+**"To have all my application deliveries been develop as cloud native apps, by design container ready."**
+> Containerizing everything I touch
 
 # Overview
 - [+17 of Passionate Software/Solutions Development](jobs.html) 
@@ -11,8 +16,6 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 -	2 Years of Academic Research
 -	[Good experience abroad](international.html): Germany, USA, Canada, Netherlands, Brazil. 
 - Fluent in English, Portuguese
-- Career goals: "To be a developer language agnostic, challenge driven, support by strong fundamentals and always pursuing to learn something new."
-- Last years personal challenge: "To have all my application deliveries been develop as cloud native apps, by design container ready."
 
 ---
 # Skills/Qualifications
@@ -22,24 +25,15 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 - Customer facing experience for support and demo of new solutions
 - Love to study languages
 > Some speak ability on: German, French, Spanish
+>
 > Initial Studies for fun: Russian and Finnish
+
 - Self-Motivated/Self-learner
 - Multi-cultural work experience
 - [Travel is a hobby](international.html)
 - [Attending tech conferences also a hobby](education.html)
 - Current career main focus to develop Big Data/Cloud Native based solutions.
 > Explore the challenges of handle [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) when selecting persitence layers and also doing it by design on containerized fashion.
-
----
-
-# TOC:
-
-- [Education History](education.html)
-- [Job Experiences](jobs.html)
-- [International Experience](international.html)
-- [Detailed Skill Set](skills.html)
-- [General Links](links.html)
-
 
 ---
 
@@ -55,7 +49,18 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 | 2 | May.2002|Jan.2006 | Claro/BCP | [System Analyst - Java/WEB](jobs.html?#job2) |
 | 1 | 2001|2001 |Ablevision | [Intern](jobs.html?#job1) |
 
+---
 
+# More about me:
+
+- [Education History](education.html)
+- [Job Experiences](jobs.html)
+- [International Experience](international.html)
+- [Detailed Skill Set](skills.html)
+- [General Links](links.html)
+
+
+---
 # Academic Research
 
 | When | Where | Guided By | Description |
