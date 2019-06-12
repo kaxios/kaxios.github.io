@@ -9,4 +9,4 @@
 - [GLS German Courses](www.gls-german-courses.de/)
 
 
-[Index](./)
+[Index](index.html)
