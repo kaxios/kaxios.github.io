@@ -2,7 +2,7 @@
 Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
 
 
-:construction_worker: **This site is under construction** :construction_worker:
+ **This site is under construction**
 
 # Overview
 - [+17 of Passionate Software/Solutions Development](jobs.html) 
