@@ -10,6 +10,8 @@
 | 2 | May.2002|Jan.2006 |Claro/BCP |System Analyst - Java/WEB |
 | 1 | 2001|2001 |Ablevision | Intern |
 
+<div id="job7"><center>***</center></div>
+
 ### 7 - IBM - SW Developer
 
 Location: Durham,NC(USA)
@@ -17,6 +19,7 @@ Team: Hybrid Cloud
 Company: IBM USA
 
 *Review Last position details*
+<div id="job6"><center>***</center></div>
 
 
 ### 6 - IBM - Sao Paulo, SP - SW Eng Staff - CORD Americas
@@ -34,6 +37,7 @@ Company: IBM Brazil
 - Activities Coordination of a team in different locations(WW);
 
 > Skills explored: Cordova, Ionic, Android, Objective-C, iOS, MobileFirst Platform, Bluemix, Liberty, Java, Javascript(Server and Client), Mobile Development, Docker, Bash, Jython, IOT, Watson ,  IBM WODM (7.5/8.X), BPM, Requirements Analysis, Global Team Coordination, Pre-Sales Support, Sikuli(UI tests API), Lotus Connections, Android Dev(personal), Dojo, HTML, Groovy, SQL, Excel(Macro), IBM RAD, IBM WAD/WAS
+<div id="job5"><center>***</center></div>
 
 ### 5 - Sodexo - Alphaville(Barueri), SP - IT Contract Manager 
 Company: Sodexo as Vendor(br.sodexo.com)
@@ -44,6 +48,8 @@ Managing and Engaging 3rd Party IT suppliers from Sodexo
 - Review of SLAs and Escalation of Production disruption events.
 
 > Skills explored: 3rd Party Team Mgt, 3rd Party IT Contract Mgt, Groovy, Java
+<div id="job4"><center>***</center></div>
+
 
 ### 4 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
 Company: Hewlett-Packard as Employee(www.hp.com)
@@ -56,6 +62,7 @@ Java Developer and Architect Solution for a new HP clients Monitoring Service - 
 - Participation of Global Teams as Consultant for tuning web services.
 
 > Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordnation, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
+<div id="job3"><center>***</center></div>
 
 ### 3 - Hewlett-Packard - Porto Alegre, RS - Solution Architect
 Company: Hewlett-Packard as Vendor(www.hp.com)
@@ -68,6 +75,7 @@ Java Developer and Architect Solution for a new HP clients Monitoring Service - 
 *3 and *4 were the same function, the only change was the employee relationship, as I started as Vendor then evolved to a company employee.
 
 > Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordination, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
+<div id="job2"><center>***</center></div>
 
 ### 2 - Claro - São Paulo, SP - System Analyst
 Company: Claro/BCP as employee(www.claro.com.br) Member of the architecture Team from Claro which defined best-practices for new web apps from the company
