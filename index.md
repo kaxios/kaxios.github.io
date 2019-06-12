@@ -58,12 +58,14 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 # References
 
 ## API Connect/Istio Related work:
+
 - [Richard Scheuerle](https://www.linkedin.com/in/richard-scheuerle-139b025/)
 - [Lin Sun](https://www.linkedin.com/in/lin-sun-a9b7a81/)
 - [Robert Thelen ](https://www.linkedin.com/in/robertthelen/)
 - [Krithika](https://www.linkedin.com/in/krithika-prakash/)
 
 ## Ops Dashboard/Spark: 
+
 - [Christopher Galtenberg](https://www.linkedin.com/in/galtenberg/)
 - [Yang Zeng](https://www.linkedin.com/in/yang-zeng-36ab617a/)
 - [Hualin (Irene) Yip ](https://www.linkedin.com/in/yipirene/)
@@ -71,11 +73,14 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 
 
 ## IBM 
+
 - [Pablo Gonzalez](https://www.linkedin.com/in/falecompablo/)
 - [Andrea Diniz](https://www.linkedin.com/in/andreaddiniz/)
 
 ## Other Companies
+
 - [McGill Quinn](https://www.linkedin.com/in/mcgill-quinn-4351962/)
 - [Maria Ane Dias](https://www.linkedin.com/in/maria-ane-dias/)
+
 ---
 
