@@ -3,11 +3,25 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 
 
 # Overview
-- +17 of Passionate Software/Solutions Development 
-- +4 of Docker Advocating 
+- [+17 of Passionate Software/Solutions Development](jobs.html) 
+- [+4 of Docker Advocating](education.html)
 - +7 Recognition Awards for the work performed
 -	+2 Years of Academic Research
--	Good experience abroad: Germany, USA, Canada, Netherlands, Brazil. Fluent in English, Portuguese
+-	[Good experience abroad](international.html): Germany, USA, Canada, Netherlands, Brazil. 
+- Fluent in English, Portuguese
+- Career goals: "To be a developer language agnostic, challenge driven, support by strong fundamentals and always pursuing to learn something new."
+- Last years personal challenge: "To have all my application deliveries been develop as cloud native apps, by design container ready."
+
+---
+
+# TOC:
+
+- [Education History](education.html)
+- [Job Experiences](jobs.html)
+- [International Experience](international.html)
+- [Detailed Skill Set](skills.html)
+- [General Links](links.html)
+
 
 ---
 # Skills
@@ -38,16 +52,6 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 | 2000-2000 |UFSCar | Professor Doctor Ednaldo Pizzolato | Voice Recognition and Virtual Reality: VRML e C++ |
 
 > Skills explored: Virtual Reality Research, Voice Recognition, VRML, C++, Game Development, Direct X, Open GL, 3DS, Animation Techniques
-
-
-# Details:
-
-- [Education History](education.html)
-- [Job Experiences](jobs.html)
-- [General Links](links.html)
-- [International Experience](links.html)
-
-
 
 
 ---
