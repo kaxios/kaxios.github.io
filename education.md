@@ -26,3 +26,7 @@
 | 1999-2002 |UFSCar |São Carlos(BRA) | **Bachelor of Computer Science** |University Education on Computer Science | 
 
 Plus Several in-company knowledge sharing sessions in inside company.
+
+
+---
+[Return to Index](index.html)
