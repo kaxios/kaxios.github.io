@@ -86,7 +86,7 @@ Company: Claro/BCP as employee(www.claro.com.br) Member of the architecture Team
 - Java Web Solution Development.
 - Coordination 3rd parties consultants in the development of Value Added Platform Web Interface.
 
-<div id="head1">sample</div>
+<div id="job1"></div>
 
 ### 1 - Ablevision - São Carlos, SP – Intern
 Company: Ablevision(www.ablevision.com) Programmer in a company that creates Agriculture/Manufacture automation SW 
