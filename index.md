@@ -117,7 +117,7 @@ Vacation Intern at company:
 # Education History
 
 | When | School | Place | Course | Description | 
-|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 | 2019 | SAIS-19 | San Francisco(USA) | **Spark Summit** | Data Science related technologies | 
 | 2018 | DockerCon EU | Barcelona(Spain)| Docker Related Talks | Docker based technologies |
 | 2018 | ODSC -Open Data Science Conference |Boston(USA) |Data Science general topics | 4 days conference for topics related to Machine Learning and Data Processing tools and methodologies|
