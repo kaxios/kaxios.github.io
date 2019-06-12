@@ -50,6 +50,19 @@ Last 3 years personal challenge:
 | 1 | 2001|2001 |Ablevision | [Intern](jobs.html?#job1) |
 
 ---
+# Fun Projects
+
+# Current 
+- Exploring HadoopFS on arm(raspberry pi)
+- Exploring Apache Spark on arm(raspberry pi/Nvidia Jetson)
+- Exploring Apache Spark with machines with CUDA cores(x386/arm)
+- Exploring cools uses of CUDA cores(for data science and similar use cases)
+- Exploring Docker contianers on ARM raspberryPi and nvidia Jetson. 
+
+# Past
+- Exploring Sao Paulo data(GIS based info) trying to do some crazy spacial joins with R. 
+- Exploring Sao Paulo real-time bus tracking in a search of insights(bash/kafka/k8s/docker/golang/cassandra).
+---
 
 # More about me:
 
