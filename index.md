@@ -1,6 +1,5 @@
-
 ## Welcome to Full Resume
-Linkedin Profile: https://www.linkedin.com/in/cesar-botti-58947513/
+Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
 
 
 # Overview
@@ -56,21 +55,23 @@ Canada(Quebec,Ottawa, Toronto, Vancouver and Montreal), Europe(Sweden, Denmark, 
 # References
 
 ## API Connect/Istio Related work:
-- https://www.linkedin.com/in/richard-scheuerle-139b025/
-- https://www.linkedin.com/in/lin-sun-a9b7a81/
-- https://www.linkedin.com/in/robertthelen/
-- https://www.linkedin.com/in/krithika-prakash/
+- [Richard Scheuerle](https://www.linkedin.com/in/richard-scheuerle-139b025/)
+- [Lin Sun](https://www.linkedin.com/in/lin-sun-a9b7a81/)
+- [Robert Thelen ](https://www.linkedin.com/in/robertthelen/)
+- [Krithika](https://www.linkedin.com/in/krithika-prakash/)
 
 ## Ops Dashboard/Spark: 
-- https://www.linkedin.com/in/yang-zeng-36ab617a/
-- https://www.linkedin.com/in/yipirene/
-- https://www.linkedin.com/in/eduardoabe/
-- https://www.linkedin.com/in/galtenberg/
+- [Christopher Galtenberg](https://www.linkedin.com/in/galtenberg/)
+- [Yang Zeng](https://www.linkedin.com/in/yang-zeng-36ab617a/)
+- [Hualin (Irene) Yip ](https://www.linkedin.com/in/yipirene/)
+- [Eduardo Abe ](https://www.linkedin.com/in/eduardoabe/)
+
 
 ## IBM 
-- https://www.linkedin.com/in/falecompablo/
-- https://www.linkedin.com/in/mcgill-quinn-4351962/
-- https://www.linkedin.com/in/andreaddiniz/
+- [Pablo Gonzalez](https://www.linkedin.com/in/falecompablo/)
+- [Andrea Diniz](https://www.linkedin.com/in/andreaddiniz/)
 
+## Other Companies
+- [McGill Quinn](https://www.linkedin.com/in/mcgill-quinn-4351962/)
 ---
 
