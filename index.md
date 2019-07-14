@@ -64,6 +64,7 @@ Last 3 years personal challenge:
 # Past
 - Exploring Sao Paulo data(GIS based info) trying to do some crazy spacial joins with R. 
 - Exploring Sao Paulo real-time bus tracking in a search of insights(bash/kafka/k8s/docker/golang/cassandra).
+
 ---
 
 # More about me:
