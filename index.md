@@ -90,6 +90,14 @@ Last 3 years personal challenge:
 ---
 # References
 
+# GITHUB
+- https://github.com/6za
+- https://github.com/i40poster
+
+# Blogs
+- https://medium.com/@6za
+- https://i40poster.github.io/geoFrackerSite/
+
 ## API Connect/Istio Related work:
 
 - [Richard Scheuerle](https://www.linkedin.com/in/richard-scheuerle-139b025/)
