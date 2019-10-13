@@ -2,6 +2,7 @@
 
 | When | School | Place | Course | Description | 
 |:---|:---|:---|:---|:---|
+| 2019 | [Red Hat Agile Day](https://rhad.info/)| Raleigh,NC(USA) | Topics about Agile|  Exploring strategies to adopt Agile Software Development | 
 | 2019 | [**SAIS-19**](https://databricks.com/sparkaisummit/north-america) | San Francisco(USA) | **Spark+AI Summit** | Data Science related technologies | 
 | 2018 | [**DockerCon EU**](http://https://europe-2018.dockercon.com/) | Barcelona(Spain)| Docker Related Talks | Docker based technologies |
 | 2018 | [**ODSC -Open Data Science Conference**](https://odsc.com/) |Boston(USA) |Data Science general topics | 4 days conference for topics related to Machine Learning and Data Processing tools and methodologies|
