@@ -26,8 +26,8 @@ Last 3 years personal challenge:
 - Fast learner of new technologies
 - Customer facing experience for support and demo of new solutions
 - Love to study languages
+> Fluent at: Portuguese and English
 > Some speak ability on: German, French, Spanish
->
 > Initial Studies for fun: Russian and Finnish
 
 - Self-Motivated/Self-learner
