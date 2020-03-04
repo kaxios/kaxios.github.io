@@ -63,6 +63,7 @@ Last 3 years personal challenge:
 - Exploring Docker contianers on ARM raspberryPi and nvidia Jetson. 
 
 Samples: [https://github.com/6za](https://github.com/6za)
+
 Summary: [https://github.com/6za/runbooks-jupyter](https://github.com/6za/runbooks-jupyter)
 
 # Past
