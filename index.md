@@ -61,8 +61,11 @@ Last 3 years personal challenge:
 - Exploring Apache Spark with machines with CUDA cores(x386/arm)
 - Exploring cools uses of CUDA cores(for data science and similar use cases)
 - Exploring Docker contianers on ARM raspberryPi and nvidia Jetson. 
+
 Samples: https://github.com/6za
+
 Summary: https://github.com/6za/runbooks-jupyter
+
 # Past
 - Exploring Sao Paulo data(GIS based info) trying to do some crazy spacial joins with R. 
 - Exploring Sao Paulo real-time bus tracking in a search of insights(bash/kafka/k8s/docker/golang/cassandra).
