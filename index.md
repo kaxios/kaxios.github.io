@@ -43,6 +43,7 @@ Last 3 years personal challenge:
 
 | # | Start | End | Where | Position | 
 |:---|:---|:---|:---|:---|
+| 8 | Jul.2019 | - | IBM(USA) | [Senior ETL / Spark Software Engineer](jobs.html?#job8) |
 | 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html?#job7) | 
 | 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html?#job6) |
 | 5 | Jan.2010 | Jun.2010| Sodexo | [IT Contract Manager](jobs.html?#job5) | 
@@ -60,7 +61,8 @@ Last 3 years personal challenge:
 - Exploring Apache Spark with machines with CUDA cores(x386/arm)
 - Exploring cools uses of CUDA cores(for data science and similar use cases)
 - Exploring Docker contianers on ARM raspberryPi and nvidia Jetson. 
-
+Samples: https://github.com/6za
+Summary: https://github.com/6za/runbooks-jupyter
 # Past
 - Exploring Sao Paulo data(GIS based info) trying to do some crazy spacial joins with R. 
 - Exploring Sao Paulo real-time bus tracking in a search of insights(bash/kafka/k8s/docker/golang/cassandra).
