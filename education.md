@@ -2,6 +2,9 @@
 
 | When | School | Place | Course | Description | 
 |:---|:---|:---|:---|:---|
+| 2022 | [**Kubecon NA**](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Detroit(USA)| Kubernetes/Cloud Related Talks | Kubernetes/Cloud based technologies |
+| 2021 | [**DockerCon LIVE 2021**](https://docker.events.cube365.net/dockercon/2021)| Remote | Docker Related Talks | Cloud/Docker based technologies |
+| 2020 | [**SAIS 2020**](https://www.databricks.com/sparkaisummit/north-america-2020?itm_data=blog-link-sais20)| Remote | Spark + AI Summit 2020 | Data Science related technologies |
 | 2019 | [Red Hat Agile Day](https://rhad.info/)| Raleigh,NC(USA) | Topics about Agile|  Exploring strategies to adopt Agile Software Development | 
 | 2019 | [**SAIS-19**](https://databricks.com/sparkaisummit/north-america) | San Francisco(USA) | **Spark+AI Summit** | Data Science related technologies | 
 | 2018 | [**DockerCon EU**](http://https://europe-2018.dockercon.com/) | Barcelona(Spain)| Docker Related Talks | Docker based technologies |
