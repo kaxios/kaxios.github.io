@@ -2,7 +2,7 @@
 
 ## In Cache
 - Programming Languages: Java, Scala, Python, Bash, Golang, Javascript/nodeJS
-- Tools/Paradigm/Framework: NodeJS, Docker, VSCode,  Atom, GIT, Amazon(AWS), VirtualBox, Kubernetes, Docker, IKS,  API Connect, Kafka, Istio, NodeJS, Prometheus, Grafana, Kibana, Elastic Search, Beats, fluentD, Apache Spark. 
+- Tools/Paradigm/Framework: NodeJS, Docker, VSCode,  Atom, GIT, Amazon(AWS), VirtualBox, Kubernetes, Docker, IKS,  API Connect, Kafka, Istio, NodeJS, Prometheus, Grafana, Kibana, Elastic Search, Beats, fluentD, Apache Spark, Terraform, Argo CD, Argo Workflows, Vault, Kubebuilder, Atlantis, Gitops.
 - NoSQL Databases: Cassandra, Hadoop, CouchDB, MongoDB, HDFS, DB2, Postgres, Mysql, REDIS
 
 ## Hot Storage
