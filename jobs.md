@@ -2,7 +2,9 @@
 
 | # | Start | End | Where | Position | 
 |:---|:---|:---|:---|:---|
-| 8 | Jul.2019 | - | IBM(USA) | [Senior ETL / Spark Software Engineer](jobs.html?#job8) | 
+| 8 | May.2022 | - | Private(Remote) | [Senior Data Engineer](jobs.html?#job10) | 
+| 8 | Jun.2022 | Feb.2023 | Kubeshop/Kubefirst(Remote) | [Senior Backend Engineer](jobs.html?#job9) | 
+| 8 | Jul.2019 | Apr.2022 | IBM(USA) | [Senior ETL / Spark Software Engineer](jobs.html?#job8) | 
 | 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html?#job7) | 
 | 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html?#job6) |
 | 5 | Jan.2010 | Jun.2010| Sodexo | [IT Contract Manager](jobs.html?#job5) | 
@@ -10,6 +12,35 @@
 | 3 | Dec.2005 | Apr.2008| HP(as vendor)| [SW Eng - Solution Architect](jobs.html?#job3) |
 | 2 | May.2002|Jan.2006 | Claro/BCP | [System Analyst - Java/WEB](jobs.html?#job2) |
 | 1 | 2001|2001 |Ablevision | [Intern](jobs.html?#job1) |
+
+
+<div id="job10"><center>***</center></div>
+
+### 10 - Private - Senior Data Engineer
+
+Location: Remote(Team based on Brazil/Working from Brazil)
+Company: _Private Projects_
+
+Development of data pipelines, explore ETL tools such as Python, Spark, Pandas, Cassandra,  Minio, Streams(kafka/redis) to collect, refine and store data. Focus on low cost data processing pipelines using clouds(Digital Ocean/AWS) and based Docker containers. 
+
+- Helping some friends with the journey to migrate data pipelines to the cloud
+- Review and suggestion of improvements on Data Pipelines architecture 
+- Tooling development to support this migration journey, for example a [docker operator for kubernetes](https://github.com/6zacode-toolbox#projects).
+
+
+<div id="job9"><center>***</center></div>
+
+### 9 - Kubefirst - Senior Backend Engineer
+
+Location: Remote(Team based on USA/Working from Brazil)
+Team: Kubefirst
+Company: [Kubeshop](https://kubeshop.io/)
+
+Open-Source development of Golang CLIs, Kubernetes Operator using Golang with Kubebuilder, Gitops CI Templates for IaC using Terraform/ArgoCD/AWS. 
+Sample of work: 
+- [Watcher for Kubernetes Events](https://github.com/kubefirst/kubefirst-watcher-operator): To simplify gitops orchestration with Argo CD pipelines. 
+- [CLI Improvements](https://github.com/kubefirst/kubefirst): contributions under user [@6za](https://github.com/6za)
+- [Gitops Templates](https://github.com/kubefirst/gitops-template)
 
 <div id="job8"><center>***</center></div>
 
