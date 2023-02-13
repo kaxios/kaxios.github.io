@@ -6,35 +6,41 @@ Career Vision:
 
 **"To be a solution developer language agnostic(right tool for the problem), challenge driven, support by strong fundamentals and always pursuing to learn something new."**
 
-Last 3 years personal challenge: 
+Last 5 years personal challenge: 
+
+**"Explore creative ways to play with Data Pipelines and Streams"**
+> Explore tools like Kafka and Spark running in cloud or edge(Rapsbery pis devices) to understand technology limits. 
 
 **"To have all my application deliveries been develop as cloud native apps, by design container ready."**
-> Containerizing everything I touch
+> Containerizing everything I touch.
+
 
 # Overview
-- [+17 years of Passionate Software/Solutions Development](jobs.html) 
-- [+4 years of Docker Advocating](education.html)
+- [+20 years of Passionate Software/Solutions Development](jobs.html) 
+- [+8 years of Docker Advocating](education.html)
+- [+6 years of Data Engineering](jobs.html) 
 - 7 Recognition Awards for the work performed
 -	2 Years of Academic Research
--	[Good experience abroad](international.html): Germany, USA, Canada, Netherlands, Brazil. 
+-	[Good experience abroad](international.html): USA, Canada, Netherlands, Germany, Brazil. 
 - Fluent in English, Portuguese
 
 ---
 # Skills/Qualifications
 
 - Strong fundamentals in computer science
+- Expirience on handling large and complex/time sentive data for Enterprise level companies. 
 - Fast learner of new technologies
 - Customer facing experience for support and demo of new solutions
 - Love to study languages
 > Fluent at: Portuguese and English
 > Some speak ability on: German, French, Spanish
-> Initial Studies for fun: Russian and Finnish
+> Initial Studies for fun: Dutch, Finnish and Russian
 
 - Self-Motivated/Self-learner
 - Multi-cultural work experience
 - [Travel is a hobby](international.html)
 - [Attending tech conferences also a hobby](education.html)
-- Current career main focus to develop Big Data/Cloud Native based solutions.
+- Current career main focus to develop Technical leadership on Data Engineering/Cloud Native based projects.
 > Explore the challenges of handle [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem) when selecting persitence layers and also doing it by design on containerized fashion.
 
 ---
@@ -42,8 +48,10 @@ Last 3 years personal challenge:
 # Job Summary
 
 | # | Start | End | Where | Position | 
-|:---|:---|:---|:---|:---|
-| 8 | Jul.2019 | - | IBM(USA) | [Senior ETL / Spark Software Engineer](jobs.html?#job8) |
+|:--:|:---|:---|:---|:---|
+| 10 | May.2022 | - | Private(Remote) | [Senior Data Engineer](jobs.html?#job10) | 
+| 9 | Jun.2022 | Feb.2023 | Kubeshop/Kubefirst(Remote) | [Senior Backend Engineer](jobs.html?#job9) | 
+| 8 | Jul.2019 | Apr.2022 | IBM(USA) | [Senior ETL / Spark Software Engineer](jobs.html?#job8) | 
 | 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html?#job7) | 
 | 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html?#job6) |
 | 5 | Jan.2010 | Jun.2010| Sodexo | [IT Contract Manager](jobs.html?#job5) | 
@@ -56,19 +64,25 @@ Last 3 years personal challenge:
 # Fun Projects
 
 # Current 
-- Exploring HadoopFS on arm(raspberry pi)
-- Exploring Apache Spark on arm(raspberry pi/Nvidia Jetson)
-- Exploring Apache Spark with machines with CUDA cores(x386/arm)
-- Exploring cools uses of CUDA cores(for data science and similar use cases)
-- Exploring Docker contianers on ARM raspberryPi and nvidia Jetson. 
+
+- [ ] Exploring tooling to integrate gitops and data related projects in particular to orchestrate cheap Spark based data pipelines in the cloud. 
+- [ ] Exploring the creation of some utilities Kubernetes Operators to allow Raspberry Pi workloads to be orchestrate by a single node Kubernets cluster. 
+
+
+
+# Past
+- [X] Exploring HadoopFS on arm(raspberry pi)
+- [X] Exploring Apache Spark on arm(raspberry pi/Nvidia Jetson)
+- [X] Exploring Apache Spark with machines with CUDA cores(x386/arm)
+- [X] Exploring cools uses of CUDA cores(for data science and similar use cases)
+- [X] Exploring Docker contianers on ARM raspberryPi and nvidia Jetson. 
+- [X] Exploring Sao Paulo data(GIS based info) trying to do some crazy spacial joins with R. 
+- [X] Exploring Sao Paulo real-time bus tracking in a search of insights(bash/kafka/k8s/docker/golang/cassandra).
 
 Samples: [https://github.com/6za](https://github.com/6za)
 
 Summary: [https://github.com/6za/runbooks-jupyter](https://github.com/6za/runbooks-jupyter)
 
-# Past
-- Exploring Sao Paulo data(GIS based info) trying to do some crazy spacial joins with R. 
-- Exploring Sao Paulo real-time bus tracking in a search of insights(bash/kafka/k8s/docker/golang/cassandra).
 
 ---
 
