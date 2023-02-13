@@ -110,12 +110,12 @@ Summary: [https://github.com/6za/runbooks-jupyter](https://github.com/6za/runboo
 # References
 
 # GITHUB
-- https://github.com/6za
-- https://github.com/i40poster
+- [Current](https://github.com/6za)
+- [Old Projects](https://github.com/i40poster)
 
 # Blogs
-- https://medium.com/@6za
-- https://i40poster.github.io/geoFrackerSite/
+- [Current - https://medium.com/@6za](https://medium.com/@6za)
+- [Old - https://i40poster.github.io/geoFrackerSite/](https://i40poster.github.io/geoFrackerSite/)
 
 ## API Connect/Istio Related work:
 
