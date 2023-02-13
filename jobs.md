@@ -1,9 +1,9 @@
 # Job Experiences
 
 | # | Start | End | Where | Position | 
-|:---|:---|:---|:---|:---|
-| 8 | May.2022 | - | Private(Remote) | [Senior Data Engineer](jobs.html?#job10) | 
-| 8 | Jun.2022 | Feb.2023 | Kubeshop/Kubefirst(Remote) | [Senior Backend Engineer](jobs.html?#job9) | 
+|:--:|:---|:---|:---|:---|
+| 10 | May.2022 | - | Private(Remote) | [Senior Data Engineer](jobs.html?#job10) | 
+| 9 | Jun.2022 | Feb.2023 | Kubeshop/Kubefirst(Remote) | [Senior Backend Engineer](jobs.html?#job9) | 
 | 8 | Jul.2019 | Apr.2022 | IBM(USA) | [Senior ETL / Spark Software Engineer](jobs.html?#job8) | 
 | 7 | May.2017 | Sep.2019| IBM(USA) | [Cloud Infrastructure Software Developer](jobs.html?#job7) | 
 | 6 | Aug.2010 | May.2017| IBM(BRA) | [SW Eng - CORD Americas/Pre-Sales Dev](jobs.html?#job6) |
