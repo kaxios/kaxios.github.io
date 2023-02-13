@@ -20,6 +20,10 @@ getAreasFromMap : true,
 areas :
 [
 	{
+		"id": "PA",
+		"showAsSelected": true
+	},
+	{
 		"id": "BE",
 		"showAsSelected": true
 	},
