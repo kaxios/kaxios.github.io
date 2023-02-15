@@ -10,7 +10,7 @@
 -	[Good experience abroad](international.html): USA, Canada, Netherlands, Germany, Brazil. 
 - Fluent in English, Portuguese
 
-> External Links: [linkdin profile](https://www.linkedin.com/in/cesar-botti-58947513/) , [github](https://github.com/6za), [docker-gitops toolbox](https://github.com/6zacode-toolbox)
+> External Links: [linkdin profile](https://www.linkedin.com/in/cesar-botti-58947513/), [github](https://github.com/6za), [docker-gitops toolbox](https://github.com/6zacode-toolbox)
 
 
 ---
