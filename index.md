@@ -10,9 +10,10 @@
 -	[Good experience abroad](international.html): USA, Canada, Netherlands, Germany, Brazil. 
 - Fluent in English, Portuguese
 
-_[linkdin profile](https://www.linkedin.com/in/cesar-botti-58947513/)_
+> [linkdin profile](https://www.linkedin.com/in/cesar-botti-58947513/)_
 
 ---
+
 # Skills/Qualifications
 
 - Strong fundamentals in computer science
