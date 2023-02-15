@@ -10,7 +10,8 @@
 -	[Good experience abroad](international.html): USA, Canada, Netherlands, Germany, Brazil. 
 - Fluent in English, Portuguese
 
-> Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
+_[My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)_
+
 ---
 # Skills/Qualifications
 
