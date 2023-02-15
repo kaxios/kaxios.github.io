@@ -1,7 +1,6 @@
 ## Welcome to Full Resume
 
 # Overview
-Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
 
 - [+20 years of Passionate Software/Solutions Development](jobs.html) 
 - [+8 years of Docker Advocating](education.html)
@@ -11,6 +10,7 @@ Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/
 -	[Good experience abroad](international.html): USA, Canada, Netherlands, Germany, Brazil. 
 - Fluent in English, Portuguese
 
+> Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
 ---
 # Skills/Qualifications
 
