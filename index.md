@@ -1,21 +1,8 @@
 ## Welcome to Full Resume
-Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
-
-
-Career Vision: 
-
-**"To be a solution developer language agnostic(right tool for the problem), challenge driven, support by strong fundamentals and always pursuing to learn something new."**
-
-Last 5 years personal challenge: 
-
-**"Explore creative ways to play with Data Pipelines and Streams"**
-> Explore tools like Kafka and Spark running in cloud or edge(Rapsbery pis devices) to understand technology limits. 
-
-**"To have all my application deliveries been develop as cloud native apps, by design container ready."**
-> Containerizing everything I touch.
-
 
 # Overview
+Linkedin Profile: [My Profile](https://www.linkedin.com/in/cesar-botti-58947513/)
+
 - [+20 years of Passionate Software/Solutions Development](jobs.html) 
 - [+8 years of Docker Advocating](education.html)
 - [+6 years of Data Engineering](jobs.html) 
@@ -45,6 +32,18 @@ Last 5 years personal challenge:
 
 ---
 
+# Career Vision: 
+
+**"To be a solution developer language agnostic(right tool for the problem), challenge driven, support by strong fundamentals and always pursuing to learn something new."**
+
+Last 5 years personal challenge: 
+
+**"Explore creative ways to play with Data Pipelines and Streams"**
+> Explore tools like Kafka and Spark running in cloud or edge(Rapsbery pis devices) to understand technology limits. 
+
+**"To have all my application deliveries been develop as cloud native apps, by design container ready."**
+> Containerizing everything I touch.
+---
 # Job Summary
 
 | # | Start | End | Where | Position | 
@@ -63,14 +62,12 @@ Last 5 years personal challenge:
 ---
 # Fun Projects
 
-# Current 
+### Current 
 
 - [ ] Exploring tooling to integrate gitops and data related projects in particular to orchestrate cheap Spark based data pipelines in the cloud. 
 - [ ] Exploring the creation of some utilities Kubernetes Operators to allow Raspberry Pi workloads to be orchestrate by a single node Kubernets cluster. 
 
-
-
-# Past
+### Past
 - [X] Exploring HadoopFS on arm(raspberry pi)
 - [X] Exploring Apache Spark on arm(raspberry pi/Nvidia Jetson)
 - [X] Exploring Apache Spark with machines with CUDA cores(x386/arm)
