@@ -46,7 +46,9 @@ Last 5 years personal challenge:
 
 **"To have all my application deliveries been develop as cloud native apps, by design container ready."**
 > Containerizing everything I touch.
+
 ---
+
 # Job Summary
 
 | # | Start | End | Where | Position | 
@@ -63,6 +65,7 @@ Last 5 years personal challenge:
 | 1 | 2001|2001 |Ablevision | [Intern](jobs.html?#job1) |
 
 ---
+
 # Fun Projects
 
 ### Current 
@@ -96,6 +99,7 @@ Summary: [https://github.com/6za/runbooks-jupyter](https://github.com/6za/runboo
 
 
 ---
+
 # Academic Research
 
 | When | Where | Guided By | Description |
@@ -107,6 +111,7 @@ Summary: [https://github.com/6za/runbooks-jupyter](https://github.com/6za/runboo
 
 
 ---
+
 # References
 
 # GITHUB
