@@ -139,6 +139,7 @@ Java Developer and Architect Solution for a new HP clients Monitoring Service - 
 *3 and *4 were the same function, the only change was the employee relationship, as I started as Vendor then evolved to a company employee.
 
 > Skills explored: Java, Dojo, HTML, JS, Groovy, Struts, Erlang, Apache, Tomcat, Eclipse, XML, Web Front End Design, 3rd Party Team Coordination, Web Front End Team Leader, Hibernate, SOAP, Web Services, REST, Postgres, PHP, Web Solution Design, Critical Mission Support, SQL, PGSQL, ITIL
+
 <div id="job2"><center>***</center></div>
 
 ### 2 - Claro - São Paulo, SP - System Analyst
@@ -159,6 +160,7 @@ Company: Claro/BCP as employee(www.claro.com.br) Member of the architecture Team
 - Coordination 3rd parties consultants in the development of Value Added Platform Web Interface.
 
 <div id="job1"><center>***</center></div>
+
 ### 1 - Ablevision - São Carlos, SP – Intern
 Company: Ablevision(www.ablevision.com) Programmer in a company that creates Agriculture/Manufacture automation SW 
 
