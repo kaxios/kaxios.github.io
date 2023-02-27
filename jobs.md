@@ -52,7 +52,7 @@ Company: IBM USA
 
 **Senior ETL / Spark Software Engineer**
 
-- Technical Leader for initiative to create a new ETL Framework based on Apache Spark/Pyhton to reduce manual steps to deploy new Data Transformation Pipelines, heavily focused on to automations of steps and collection of evidences to support change management process. 
+- Technical Leader for initiative to create a new ETL Framework based on Apache Spark/Python to reduce manual steps to deploy new Data Transformation Pipelines, heavily focused on to automations of steps and collection of evidences to support change management process. 
 - Senior ETL/Spark Solution Developer for complex pipelines using database and streaming sources such as Kafka. 
 - Python/Scala developer on several projects(Mostly data processing spark based solutions), including a monorepo based solution using bazel. 
 - Senior Developer acting the role of mentor to other developers in the program to help ensure consistency of solutions and tooling. 
